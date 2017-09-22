@@ -1,0 +1,26 @@
+{
+  "name": "cryptobank",
+  "version": "0.0.1",
+  "description": "It's a cryptobank, send ETH to contract, get a token back, use token to redeem token, acquire interest on ETH",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourcenetworks/cryptobank.git"
+  },
+  "keywords": [
+    "Crypto",
+    "ETH"
+  ],
+  "author": "Source Networks Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourcenetworks/cryptobank/issues"
+  },
+  "homepage": "https://github.com/sourcenetworks/cryptobank#readme"
+}

@@ -13,7 +13,8 @@ Fractional Reserve Cryptobanking
 
 1. Use node version --8.5.0
 2. Use npm version --5.3.0
-3. `npm install`
-4. [npm install -g ethereumjs-testrpc](https://github.com/ethereumjs/testrpc)
-5. Open a separate terminal window and issue command `testrpc`
-6. Run tests with `npm test`. If that doesn't work, do `truffle test`
+3. Clone this repo. `git clone https://github.com/sourcenetworks/cryptobank.git`
+4. Install necessary packages`npm install`
+5. Install testrpc with `npm install -g ethereumjs-testrpc`. [More info here](https://github.com/ethereumjs/testrpc)
+6. Open a separate terminal window and issue command `testrpc`
+7. Run tests with `npm test`. If that doesn't work, do `truffle test`

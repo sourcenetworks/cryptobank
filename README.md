@@ -1,12 +1,19 @@
 # cryptobank
 Fractional Reserve Cryptobanking
 
-[Original Thoughts](https://www.evernote.com/l/AQ2q1B-Xsy1Ocq2h10kM0-bWqrWEe-O5Uks)
+[Original Thoughts on Evernote](https://www.evernote.com/l/AQ2q1B-Xsy1Ocq2h10kM0-bWqrWEe-O5Uks)
 
-1. Token First (Mintable)
-2. Send to contract (establish a lockup)
-3. Burn tokens by transferring to 0x0 address
-4. Submit loans to contract with terms
+[Updated Thoughts on Quip](https://quip.com/fEP1AUCw7Z0u)
+
+1. Token First (Mintable/Burnable)
+2. Send to contract (establish a lockup) + get CryptoBankNote Token
+3. Burn tokens by transferring to 0x0 address - burn token
+4. Submit loans to contract with terms (people accept loans???)
+  -> People to generate different loan terms and vote on them like cryptobanknote
+5. Off chain computation? -> DAO or something like that.
+6. Governance??? (testnet) -> for loans to accept. Like the polychain type things. VC thing in favor because no need for external data feed.
+  -> Colored Token (with different voting rights).
+
 
 -----
 # How to use

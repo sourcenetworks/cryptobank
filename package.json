@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sourcenetworks/cryptobank/issues"
   },
-  "homepage": "https://github.com/sourcenetworks/cryptobank#readme"
+  "homepage": "https://github.com/sourcenetworks/cryptobank#readme",
+  "dependencies": {
+    "truffle": "^3.4.9"
+  }
 }
